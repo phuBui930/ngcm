@@ -20,6 +20,7 @@
 - servux-fabric-1.21.8-0.7.3.jar
 - threadtweak-fabric-0.1.7+mc1.21.5.jar
 - [ *trade-cycling-fabric-1.21.8-1.0.19.jar ](https://modrinth.com/mod/trade-cycling) 
+
 chú thích: dấu * là các mod cần cài từ client để có thể hoạt động đầy đủ, nhấn vào sẽ dẫn tới link tải
 
 ## Các datapack 
