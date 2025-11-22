@@ -1,0 +1,13 @@
+name = "Anvil Restoration"
+filename = "anvilrestoration-1.21.8-2.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bd8nwTGy/versions/sbursSZZ/anvilrestoration-1.21.8-2.4.jar"
+hash-format = "sha512"
+hash = "c0304bcf10556f8c88c10fe1e0362ee51304092d6a81630020f635c3978c0a4a050a23ad4d491bd502674c01fe7118bf6622e46b1cb9a217015250e54ddcf871"
+
+[update]
+[update.modrinth]
+mod-id = "bd8nwTGy"
+version = "sbursSZZ"

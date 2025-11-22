@@ -1,0 +1,13 @@
+name = "Trade Cycling"
+filename = "trade-cycling-fabric-1.21.8-1.0.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qpPoAL6m/versions/xpf5V7wi/trade-cycling-fabric-1.21.8-1.0.19.jar"
+hash-format = "sha512"
+hash = "0ab0a0b0a8f747a6e8e02c1d6f70efdd31546a6092614c2f094f95845a60abd589b5bcf42d7e79aebce0d614f7e59473bf4a233e1d1f440ceef7b62e6811f006"
+
+[update]
+[update.modrinth]
+mod-id = "qpPoAL6m"
+version = "xpf5V7wi"

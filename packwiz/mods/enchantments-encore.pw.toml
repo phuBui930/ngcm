@@ -1,0 +1,13 @@
+name = "Enchantments Encore"
+filename = "enchantments-encore-3.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GD1QoExk/versions/EmY1i9eF/enchantments-encore-3.2.1.jar"
+hash-format = "sha512"
+hash = "d8aadd36129bca42167ec394f98210df6b8b97cce5fabc20ddcdec6dc67a7fc8325bf2a071b6c993eec8d78155a0d7b56c353bd63c326f8d9e1311793fe71b77"
+
+[update]
+[update.modrinth]
+mod-id = "GD1QoExk"
+version = "EmY1i9eF"
