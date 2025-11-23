@@ -1,12 +1,12 @@
 # Tài nguyên server
 ## các mod trong server: 
 Mod loader: Fabric
-- [ *RoughlyEnoughItems-20.0.811-fabric.jar ](https://modrinth.com/mod/rei)
+- *[ RoughlyEnoughItems-20.0.811-fabric.jar ](https://modrinth.com/mod/rei)
 - [ ScalableLux-0.1.5.1+fabric.abdeefa-all.jar ](https://modrinth.com/mod/scalablelux)
 - [ anvilrestoration-1.21.8-2.4.jar ](https://modrinth.com/mod/anvil-restoration)
-- [ *appleskin-fabric-mc1.21.6-3.0.6.jar ](https://modrinth.com/mod/appleskin)
+- *[ appleskin-fabric-mc1.21.6-3.0.6.jar ](https://modrinth.com/mod/appleskin)
 - [ architectury-17.0.8-fabric.jar ](https://modrinth.com/mod/architectury-api)
-- [ *armored-elytra-1.9.0.jar ](https://modrinth.com/datapack/elytra-armor)
+- *[ armored-elytra-1.9.0.jar ](https://modrinth.com/datapack/elytra-armor)
 - [ better-fabric-console-mc1.21.8-1.2.5.jar ](https://modrinth.com/mod/better-fabric-console)
 - [ c2me-fabric-mc1.21.8-0.3.4.0.0.jar ](https://modrinth.com/mod/c2me-fabric)
 - [ collective-1.21.8-8.10.jar ](https://modrinth.com/mod/collective)
@@ -20,7 +20,7 @@ Mod loader: Fabric
 - [ noisium-fabric-2.7.0+mc1.21.6.jar ](https://modrinth.com/mod/noisium)
 - [ servux-fabric-1.21.8-0.7.3.jar ](https://modrinth.com/mod/servux)
 - [ threadtweak-fabric-0.1.7+mc1.21.5.jar ](https://modrinth.com/mod/threadtweak)
-- [ *trade-cycling-fabric-1.21.8-1.0.19.jar ](https://modrinth.com/mod/trade-cycling) 
+- *[ trade-cycling-fabric-1.21.8-1.0.19.jar ](https://modrinth.com/mod/trade-cycling) 
 
 chú thích: dấu * là các mod cần cài từ client để có thể hoạt động đầy đủ, nhưng không bắt buộc để có thể chơi server này, nhấn vào sẽ dẫn tới link tải
 
@@ -44,7 +44,7 @@ chú thích: dấu * là các mod cần cài từ client để có thể hoạt 
 - [  Veinminer-Enchantment-1.2.3.zip ](https://modrinth.com/datapack/veinminer-enchantment)
 - [  banner-bedsheets-v1-8.zip ](https://modrinth.com/datapack/banner-bedsheets)
 - [  banner-flags-v2-9.zip ](https://modrinth.com/datapack/banner-flags)
-- [  biomesaplings-v1.1.6.zip ]https://modrinth.com/datapack/terralith-biome-saplings
+- [  biomesaplings-v1.1.6.zip ](https://modrinth.com/datapack/terralith-biome-saplings)
 - [  mine-treasure-1.6.zip ](https://modrinth.com/datapack/mine-treasure)
 - [  more_mobs-v1.5.7-mc1.14-1.21.9-datapack.zip ](https://modrinth.com/datapack/more-mobs)
 - [  terratonic-3.0.0-datapack ](https://modrinth.com/datapack/terratonic)
