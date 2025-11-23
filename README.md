@@ -21,6 +21,7 @@ Mod loader: Fabric
 - [ servux-fabric-1.21.8-0.7.3.jar ](https://modrinth.com/mod/servux)
 - [ threadtweak-fabric-0.1.7+mc1.21.5.jar ](https://modrinth.com/mod/threadtweak)
 - *[ trade-cycling-fabric-1.21.8-1.0.19.jar ](https://modrinth.com/mod/trade-cycling) 
+- *[voicechat-fabric-1.21.8-2.6.6.jar](https://modrinth.com/plugin/simple-voice-chat)
 
 chú thích: dấu * là các mod cần cài từ client để có thể hoạt động đầy đủ, nhưng không bắt buộc để có thể chơi server này, nhấn vào sẽ dẫn tới link tải
 
