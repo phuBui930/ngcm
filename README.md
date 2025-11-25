@@ -2,8 +2,8 @@
 > Đây là trang hỗ trợ cho server ngcm(nigachoimine), hãy xem mục lục ở bên dưới
 
 ## Mục lục
-- [Cách truy cập vào server]()
-- [Các mod và datapack\(kèm các mod yêu cầu cài ở client để hoạt động\)](##Tài-nguyên-server)
+- [Cách truy cập vào server](#cách-truy-cập-vào-server)
+- [Các mod và datapack\(kèm các mod yêu cầu cài ở client để hoạt động\)](#tài-nguyên-server)
 ## Cách truy cập vào server
 <a href="https://zerotier.com"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/ZeroTier_Logo.png" align="right" width="144" /></a>
 > Server này sử dụng zerotier làm VPN để các máy khách có thể truy cập được từ xa, cần cài và yêu cầu tham gia mạng nội bộ của Zerotier
