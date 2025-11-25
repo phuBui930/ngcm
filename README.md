@@ -1,6 +1,26 @@
-# Tài nguyên server
-## các mod trong server: 
-Mod loader: Fabric
+# Trang hỗ trợ server
+> Đây là trang hỗ trợ cho server ngcm(nigachoimine), hãy xem mục lục ở bên dưới
+
+## Mục lục
+- [Cách truy cập vào server]()
+- [Các mod và datapack\(kèm các mod yêu cầu cài ở client để hoạt động\)](##Tài-nguyên-server)
+## Cách truy cập vào server
+<a href="https://zerotier.com"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/ZeroTier_Logo.png" align="right" width="144" /></a>
+> Server này sử dụng zerotier làm VPN để các máy khách có thể truy cập được từ xa, cần cài và yêu cầu tham gia mạng nội bộ của Zerotier
+
+- Bước 1: Tải Zerotier [tại đây](https://www.zerotier.com/download/)
+- Bước 2: Tìm biểu tượng Zerotier trên taskbar, nhấn chọn **Join New Network**
+- Bước 3: Nhập ID mạng Zerotier và nhấn **Join**
+
+
+    ```e4da7455b24a7a06``` 
+
+Sau khi kết nối, bạn có thể truy cập server ở địa chỉ sau: 
+
+```192.168.196.32:25566```
+
+## Tài nguyên server
+### Các mod trong server: (modloader: Fabric)
 - *[ RoughlyEnoughItems-20.0.811-fabric.jar ](https://modrinth.com/mod/rei)
 - [ ScalableLux-0.1.5.1+fabric.abdeefa-all.jar ](https://modrinth.com/mod/scalablelux)
 - [ anvilrestoration-1.21.8-2.4.jar ](https://modrinth.com/mod/anvil-restoration)
@@ -25,7 +45,7 @@ Mod loader: Fabric
 
 chú thích: dấu * là các mod cần cài từ client để có thể hoạt động đầy đủ, nhưng không bắt buộc để có thể chơi server này, nhấn vào sẽ dẫn tới link tải
 
-## Các datapack 
+### Các datapack 
 - [ 'DnT Ancient City Overhaul v3.1' ](https://modrinth.com/datapack/dungeons-and-taverns-ancient-city-overhaul)
 - [ 'DnT Desert Temple Overhaul v2.zip' ](https://modrinth.com/datapack/dungeons-and-taverns-desert-temple-overhaul)
 - [ 'DnT End Castle Standalone v1.3.4.zip' ](https://modrinth.com/datapack/dungeons-and-taverns-end-castle-standalone)
