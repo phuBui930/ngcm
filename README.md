@@ -1,4 +1,9 @@
 # Trang hỗ trợ server
+
+| Phiên bản Minecraft           | Địa chỉ                       | 
+| :----------------- | :----------------------------- |
+| `1.21.8`   | `192.168.196.32:25566`                         |
+
 > Đây là trang hỗ trợ cho server ngcm(nigachoimine), hãy xem mục lục ở bên dưới
 
 ## Mục lục
@@ -11,7 +16,6 @@
 - Bước 1: Tải Zerotier [tại đây](https://www.zerotier.com/download/)
 - Bước 2: Tìm biểu tượng Zerotier trên taskbar, nhấn chọn **Join New Network**
 - Bước 3: Nhập ID mạng Zerotier và nhấn **Join**
-
 
     ```e4da7455b24a7a06``` 
 
