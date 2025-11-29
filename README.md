@@ -2,7 +2,7 @@
 
 | Phiên bản Minecraft           | Địa chỉ                       | 
 | :----------------- | :----------------------------- |
-| `1.21.8`   | `192.168.196.32:25566`                         |
+| `1.21.8 Vanilla`   | `192.168.196.32:25566`                         |
 
 > Đây là trang hỗ trợ cho server ngcm(nigachoimine), hãy xem mục lục ở bên dưới
 
@@ -46,6 +46,8 @@ Sau khi kết nối, bạn có thể truy cập server ở địa chỉ sau:
 - [ threadtweak-fabric-0.1.7+mc1.21.5.jar ](https://modrinth.com/mod/threadtweak)
 - *[ trade-cycling-fabric-1.21.8-1.0.19.jar ](https://modrinth.com/mod/trade-cycling) 
 - *[voicechat-fabric-1.21.8-2.6.6.jar](https://modrinth.com/plugin/simple-voice-chat)
+- [ easyauth-mc1.21.6-3.3.6.jar ](https://modrinth.com/mod/easyauth)
+
 
 chú thích: dấu * là các mod cần cài từ client để có thể hoạt động đầy đủ, nhưng không bắt buộc để có thể chơi server này, nhấn vào sẽ dẫn tới link tải
 
