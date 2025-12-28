@@ -1,0 +1,101 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/anvil-restoration.pw.toml"
+hash = "91dc3bbf903a92c115a3bbd79c0880ce7645e0e1601b8e5efd54b10adc20a4a9"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "c22ebc9646c063a5c53acae5b49a0b54f8b21500ecc79a9c52b142775512b2d6"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "832691489ab19e2f0a4b81b77c143a8dceb5f3f395cdee96bcddd893fb01b363"
+metafile = true
+
+[[files]]
+file = "mods/better-fabric-console.pw.toml"
+hash = "eec76fa643099e909226e01e445a371efd01b4db6621da3b71247b75fa3d8551"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "01c5eb93a204f6b917b21aefd8e1c1268c8c0e63a9b6b34c4173bd7c8ff3dca5"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "71a28f3d54e0f7fbeec1a48bcaee5ee5ca9257939e8bfd8973721b9843b22f1d"
+metafile = true
+
+[[files]]
+file = "mods/elytra-armor.pw.toml"
+hash = "c97c771dfb64fc5c4d111b26fb858abe54d297b7bc3cda6ce20de468f406d643"
+metafile = true
+
+[[files]]
+file = "mods/enchantments-encore.pw.toml"
+hash = "9e025a750567fd0f07e261be65b4aeab4b30ebdfec879b358cfbabff264dc5ee"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "54e3cc9a3c2a05cc879ffda7f4c97a89be0b648421d6c8fe92e2d3e5761abf20"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/giant-spawn.pw.toml"
+hash = "c253b1c52ff2472e1ee1011c26ae761ac75278a89edb4a27fa910335274bf0bd"
+metafile = true
+
+[[files]]
+file = "mods/inventory-totem.pw.toml"
+hash = "75d716a91502891cf951d18e978ef591ec6452c6699f47b13ab50abbb25c9451"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a63765eb780a36cd968e2777d2c20bea5e5ca3ccdd920e64964e3746cf2a7f0d"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "c30abb741af8bcf3b29d000736aa2ae1730f0c551c17266e15b3c5c2183d0354"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "0bdb14d12c298ab3a115ba719c6a6ee294bcfb97ed12efe53dd1ef753efc82d4"
+metafile = true
+
+[[files]]
+file = "mods/servux.pw.toml"
+hash = "c4defe486d9d73ab56a8b46bac12a5d9076fc6c99b7e6674a690cb94bdc6e73f"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "1a0481b1f8bd7f92cc6095794da36f0a7de9133b48a8cccb196ac35809b4dceb"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "0a229fa2e9d9420de07364297325ceddb036d8d6617a9b0d448aeefc60588d69"
+metafile = true

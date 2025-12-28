@@ -1,0 +1,13 @@
+name = "Giant Spawn"
+filename = "giantspawn-1.21.8-5.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iWwn7s9U/versions/W3mYXClp/giantspawn-1.21.8-5.3.jar"
+hash-format = "sha512"
+hash = "06e9fb89f9a4d2772399f17ca33bf0d392a6b26ec7b82f90e377193f65807a1bbdc21cab99a77219c18f11dafc114eeeb98fdac04e30288f32ac2c7763553ed2"
+
+[update]
+[update.modrinth]
+mod-id = "iWwn7s9U"
+version = "W3mYXClp"
