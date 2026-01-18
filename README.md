@@ -19,6 +19,7 @@
 
     ```e4da7455b24a7a06``` 
 - Bước 4: Liên hệ với admin để phê duyệt thiết bị của bạn
+
 Sau khi kết nối, bạn có thể truy cập server ở địa chỉ sau: 
 
 ```192.168.196.32:25566```
