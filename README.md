@@ -25,6 +25,7 @@ Sau khi kết nối, bạn có thể truy cập server ở địa chỉ sau:
 
 ## Tài nguyên server
 ### Các mod trong server: (modloader: Fabric)
+chú thích: dấu * là các mod cần cài từ client để có thể hoạt động đầy đủ, nhưng không bắt buộc để có thể chơi server này, nhấn vào sẽ dẫn tới link tải
 - *[ RoughlyEnoughItems-20.0.811-fabric.jar ](https://modrinth.com/mod/rei)
 - [ ScalableLux-0.1.5.1+fabric.abdeefa-all.jar ](https://modrinth.com/mod/scalablelux)
 - [ anvilrestoration-1.21.8-2.4.jar ](https://modrinth.com/mod/anvil-restoration)
@@ -50,7 +51,6 @@ Sau khi kết nối, bạn có thể truy cập server ở địa chỉ sau:
 - [NE-1.21.8-1.10.2.jar\(No expensive\)](https://modrinth.com/mod/noexpensive)
 
 
-chú thích: dấu * là các mod cần cài từ client để có thể hoạt động đầy đủ, nhưng không bắt buộc để có thể chơi server này, nhấn vào sẽ dẫn tới link tải
 
 ### Các datapack 
 - [ 'DnT Ancient City Overhaul v3.1' ](https://modrinth.com/datapack/dungeons-and-taverns-ancient-city-overhaul)
@@ -78,6 +78,6 @@ chú thích: dấu * là các mod cần cài từ client để có thể hoạt 
 - [  upgraded-mobs-1.5.0 ](https://modrinth.com/datapack/upgraded-mobs)
 - [  vanilla-refresh-1.4.28 ](https://modrinth.com/datapack/vanilla-refresh)
 - [  veinminer-1.3.2.zip ](https://modrinth.com/datapack/veinminer)
-- 'xp bottling v1.1.15 (MC 1.21-1.21.9).zip' (vanilla tweaks)
+- [ \'xp bottling v1.1.15 \(MC 1.21-1.21.9\).zip\' \(vanilla tweaks\) ](https://vanillatweaks.net/share#7v0zGS)
 - [ 'zDungeons and Taverns v4.7.3' ](https://modrinth.com/datapack/dungeons-and-taverns)
 
