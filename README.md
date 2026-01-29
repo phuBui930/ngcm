@@ -15,10 +15,24 @@
 
 - Bước 1: Tải Zerotier [tại đây](https://www.zerotier.com/download/)
 - Bước 2: Tìm biểu tượng Zerotier trên taskbar, nhấn chọn **Join New Network**
-- Bước 3: Nhập ID mạng Zerotier và nhấn **Join**
 
-    ```e4da7455b24a7a06``` 
-- Bước 4: Liên hệ với admin để phê duyệt thiết bị của bạn
+<p align="center">
+  <img src="pictures/Screenshot_20260129_191712.png" width="50%" alt="Zerotier Join Network">
+</p>
+
+- Bước 3: Nhập ID mạng Zerotier sau: **`e4da7455b24a7a06`** và nhấn **Join**
+
+<p align="center">
+  <img src="pictures/Screenshot_20260129_191739.png" width="50%" alt="Zerotier Network ID">
+</p>
+
+- Bước 4: Đảm bảo bạn đã tích chọn **Allow managed addresses**
+
+<p align="center">
+  <img src="pictures/Screenshot_20260129_191942.png" width="50%" alt="Waiting for approval">
+</p>
+
+- Bước 5: Liên hệ với admin để phê duyệt thiết bị của bạn
 
 Sau khi kết nối, bạn có thể truy cập server ở địa chỉ sau: 
 
