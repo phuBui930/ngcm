@@ -13,28 +13,28 @@
 <a href="https://zerotier.com"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/ZeroTier_Logo.png" align="right" width="144" /></a>
 > Server này sử dụng zerotier làm VPN để các máy khách có thể truy cập được từ xa, cần cài và yêu cầu tham gia mạng nội bộ của Zerotier
 
-- Bước 1: Tải Zerotier [tại đây](https://www.zerotier.com/download/)
-- Bước 2: Tìm biểu tượng Zerotier trên taskbar, nhấn chọn **Join New Network**
+- **Bước 1:** Tải Zerotier [tại đây](https://www.zerotier.com/download/)
+- **Bước 2:** Tìm biểu tượng Zerotier trên taskbar, nhấn chọn **Join New Network**
 
 <p align="center">
   <img src="pictures/Screenshot_20260129_191712.png" width="50%" alt="Zerotier Join Network">
 </p>
 
-- Bước 3: Nhập ID mạng Zerotier sau: **`e4da7455b24a7a06`** và nhấn **Join**
+- **Bước 3:** Nhập ID mạng Zerotier sau: **`e4da7455b24a7a06`** và nhấn **Join**
 
 <p align="center">
   <img src="pictures/Screenshot_20260129_191739.png" width="50%" alt="Zerotier Network ID">
 </p>
 
-- Bước 4: Đảm bảo bạn đã tích chọn **Allow managed addresses**
+- **Bước 4:** Đảm bảo bạn đã tích chọn **Allow managed addresses**
 
 <p align="center">
   <img src="pictures/Screenshot_20260129_191942.png" width="50%" alt="Waiting for approval">
 </p>
 
-- Bước 5: Liên hệ với admin để phê duyệt thiết bị của bạn
+- **Bước 5:** Liên hệ với admin để phê duyệt thiết bị của bạn
 
-Sau khi kết nối, bạn có thể truy cập server ở địa chỉ sau: 
+Sau khi kết nối, bạn có thể truy cập server ở **địa chỉ sau**: 
 
 ```192.168.196.32:25566```
 
