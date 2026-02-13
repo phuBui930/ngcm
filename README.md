@@ -63,7 +63,6 @@ chú thích: dấu * là các mod cần cài từ client để có thể hoạt 
 - *[ trade-cycling-fabric-1.21.8-1.0.19.jar ](https://modrinth.com/mod/trade-cycling) 
 - *[voicechat-fabric-1.21.8-2.6.6.jar](https://modrinth.com/plugin/simple-voice-chat)
 - [ easyauth-mc1.21.6-3.3.6.jar ](https://modrinth.com/mod/easyauth)
-- [NE-1.21.8-1.10.2.jar\(No expensive\)](https://modrinth.com/mod/noexpensive)
 
 
 
