@@ -1,0 +1,13 @@
+name = "Banner Bedsheets"
+filename = "banner-bedsheets-1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pcN1B3cK/versions/PtmpQMF4/banner-bedsheets-1.8.jar"
+hash-format = "sha512"
+hash = "b9df646425967899a0ba57c6b6d04d21fc36b8b1260ca2c7575f589d609cb38c0de1a641c2e210eff968a171a2b0da14a53f68677c57a5b475bd732398c48a05"
+
+[update]
+[update.modrinth]
+mod-id = "pcN1B3cK"
+version = "PtmpQMF4"
