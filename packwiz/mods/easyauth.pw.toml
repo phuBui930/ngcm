@@ -1,0 +1,13 @@
+name = "EasyAuth"
+filename = "easyauth-mc1.21.6-3.4.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/aZj58GfX/versions/puWBurim/easyauth-mc1.21.6-3.4.2.jar"
+hash-format = "sha512"
+hash = "7b91f690318b8452d6b00a7150e6a86525bb3cc95a6aab73c50ca0c6c2025b50ed435e3d915f89cf64010243f99bbf38d7fee99aaca2a3fbab18d1e0be00cfe5"
+
+[update]
+[update.modrinth]
+mod-id = "aZj58GfX"
+version = "puWBurim"
