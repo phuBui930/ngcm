@@ -1,0 +1,13 @@
+name = "More Mobs"
+filename = "more_mobs-v1.5.8-mc1.14-1.21.11-datapack.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HJR6V0I2/versions/I0VIOO9P/more_mobs-v1.5.8-mc1.14-1.21.11-datapack.zip"
+hash-format = "sha512"
+hash = "3117e3ab8efa61f0cbe1cd4dbf0c2fa9da3c2a39143357cde4b37ee5f6b375972d2346838060cad93b807a3eaa734390ab4276ec82d60fd8cacfdd870e9d7e7b"
+
+[update]
+[update.modrinth]
+mod-id = "HJR6V0I2"
+version = "I0VIOO9P"

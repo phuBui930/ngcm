@@ -1,0 +1,13 @@
+name = "Structory: Towers"
+filename = "Structory_Towers_1.21_v1.0.15.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j3FONRYr/versions/RaKH6dLr/Structory_Towers_1.21_v1.0.15.zip"
+hash-format = "sha512"
+hash = "073ada2093756e83586576f73eae45e8eb01dd3edbe4cb134edf31b88c47384da5b302f6876c7d94e12ab270fc74b1c27b353e2e868634eefb55d9259b783cae"
+
+[update]
+[update.modrinth]
+mod-id = "j3FONRYr"
+version = "RaKH6dLr"

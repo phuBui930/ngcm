@@ -1,0 +1,13 @@
+name = "Banner Flags"
+filename = "banner-flags-v2-9.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cCStmVIN/versions/b248sOHG/banner-flags-v2-9.zip"
+hash-format = "sha512"
+hash = "d3fd08965e67ecd86265354ed16a97fd7e69e09f086d84429c97b8b08c85e5048f0059a35f38a5d2549c10b100372b7bcf675844ed8ed1e73eb04040fc1d5f49"
+
+[update]
+[update.modrinth]
+mod-id = "cCStmVIN"
+version = "b248sOHG"

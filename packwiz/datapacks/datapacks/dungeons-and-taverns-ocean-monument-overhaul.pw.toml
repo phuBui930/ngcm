@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Ocean Monument Overhaul"
+filename = "DnT Ocean Monument Overhaul v2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z6GJ3ycD/versions/w77KxnKI/DnT%20Ocean%20Monument%20Overhaul%20v2.zip"
+hash-format = "sha512"
+hash = "96a174848fc286b56fb9f5e5290277db3dfa9e10a3a5888f199c68ee13441f77fe30940fe26c0c8103dab9187e9d057acf9c17fe18f066ba1891df0ebc5d612d"
+
+[update]
+[update.modrinth]
+mod-id = "z6GJ3ycD"
+version = "w77KxnKI"

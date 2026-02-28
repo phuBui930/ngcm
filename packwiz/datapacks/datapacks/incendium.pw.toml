@@ -1,0 +1,13 @@
+name = "Incendium"
+filename = "Incendium_1.21.5_v5.4.9_UNSUPPORTED.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZVzW5oNS/versions/gBoadsBv/Incendium_1.21.5_v5.4.9_UNSUPPORTED.zip"
+hash-format = "sha512"
+hash = "b8983657dae93206203422bf0d5365f26ba212caf018b743d96b0438ba3f16c1471473e37377ca3437b791e631ad42e62e8e29e87a4081b774771ba939cc0104"
+
+[update]
+[update.modrinth]
+mod-id = "ZVzW5oNS"
+version = "gBoadsBv"

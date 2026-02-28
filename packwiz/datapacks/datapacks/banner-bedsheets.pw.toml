@@ -1,0 +1,13 @@
+name = "Banner Bedsheets"
+filename = "banner-bedsheets-v1-8.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pcN1B3cK/versions/siGrAUX7/banner-bedsheets-v1-8.zip"
+hash-format = "sha512"
+hash = "805372dcee96e0c34db8197f31fd199931d3399251727dd4c07bb3adcce8b26cb68b8bad61a352805259e96b6005ad87c2c3d1df00a51795b390b503481a2046"
+
+[update]
+[update.modrinth]
+mod-id = "pcN1B3cK"
+version = "siGrAUX7"

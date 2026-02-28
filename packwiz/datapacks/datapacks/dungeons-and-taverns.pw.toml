@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns"
+filename = "Dungeons and Taverns v4.7.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tpehi7ww/versions/xjVWiPK3/Dungeons%20and%20Taverns%20v4.7.3.zip"
+hash-format = "sha512"
+hash = "8bc9964eef861a66c1eacf57fb6bfbaef5df1e416d048a6520698374ddd9a1464850631edebb5b7aa2c954d93faefa8055998f4b0dd9bdbfe0eb3fd8607bdaad"
+
+[update]
+[update.modrinth]
+mod-id = "tpehi7ww"
+version = "xjVWiPK3"

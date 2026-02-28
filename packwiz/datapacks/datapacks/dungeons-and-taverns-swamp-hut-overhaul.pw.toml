@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Swamp Hut Overhaul"
+filename = "DnT Swamp Hut Overhaul v2.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nWSeFpQt/versions/q7O4zFJC/DnT%20Swamp%20Hut%20Overhaul%20v2.2.zip"
+hash-format = "sha512"
+hash = "63b40102056f5968c236a570e57db4de1045a9e0afe24a2c8d06cdf5f47ac98cd6d8a0d2ee653a56f986198b4acdcef87839227b07fbc2fa000139b56ef9fd53"
+
+[update]
+[update.modrinth]
+mod-id = "nWSeFpQt"
+version = "q7O4zFJC"

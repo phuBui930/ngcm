@@ -1,0 +1,13 @@
+name = "Mine Treasure"
+filename = "mine-treasure-1.6.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5y2R1ofr/versions/sLWYLW9I/mine-treasure-1.6.zip"
+hash-format = "sha512"
+hash = "44322e73eaf68abb2f6005d2105301b55026791101415aa5da6848537dadf70126a85e8e5e794c08450b04fe4cbf784a39c179c7acc86952595a39e952c1a610"
+
+[update]
+[update.modrinth]
+mod-id = "5y2R1ofr"
+version = "sLWYLW9I"

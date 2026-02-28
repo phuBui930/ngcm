@@ -1,0 +1,13 @@
+name = "Custom Biome Saplings"
+filename = "biomesaplings-v1.1.6.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CYGkXnUb/versions/rwy5Kdw2/biomesaplings-v1.1.6.zip"
+hash-format = "sha512"
+hash = "fd7b121fd987bf7224c89f10083d02823865e162d10a30f18bb62979c502a83cf21096ed97cf05c05e31310d7d3e61b4676e78b4ca75df48ef8a565ca82262c3"
+
+[update]
+[update.modrinth]
+mod-id = "CYGkXnUb"
+version = "rwy5Kdw2"
