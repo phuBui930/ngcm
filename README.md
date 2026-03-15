@@ -140,7 +140,7 @@ chú thích: dấu * là các mod cần cài từ client để có thể hoạt 
 - [Veinminer](https://modrinth.com/mod/veinminer)
 ##### Datapack đã được chỉnh sửa
 - [ Upgraded Mobs ]( modrinth.com/datapack/upgraded-mobs )
-##### Lưu ý: dưới đây là các datapack vanila tweaks, nhấn vào [đây](https://vanillatweaks.net/download/VanillaTweaks_d160709_UNZIP_ME.zip) để tải các mod này xuống
+##### Lưu ý: dưới đây là các datapack vanila tweaks, nhấn vào [đây](https://vanillatweaks.net/share#SeGjwV) để tải các mod này xuống
 - redstone rotation wrench v1.1.16 (MC 1.21-1.21.11).zip
 - spawning spheres v1.1.15 (MC 1.21-1.21.11).zip
 - wandering trader announcements v1.0.8 (MC 1.21-1.21.11).zip
