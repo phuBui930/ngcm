@@ -43,57 +43,105 @@ Sau khi kết nối, bạn có thể truy cập server ở **địa chỉ sau**:
 ## Tài nguyên server
 ### Các mod trong server: (modloader: Fabric)
 chú thích: dấu * là các mod cần cài từ client để có thể hoạt động đầy đủ, nhưng không bắt buộc để có thể chơi server này, nhấn vào sẽ dẫn tới link tải
-- *[ RoughlyEnoughItems-20.0.811-fabric.jar ](https://modrinth.com/mod/rei)
-- [ ScalableLux-0.1.5.1+fabric.abdeefa-all.jar ](https://modrinth.com/mod/scalablelux)
-- [ anvilrestoration-1.21.8-2.4.jar ](https://modrinth.com/mod/anvil-restoration)
-- *[ appleskin-fabric-mc1.21.6-3.0.6.jar ](https://modrinth.com/mod/appleskin)
-- [ architectury-17.0.8-fabric.jar ](https://modrinth.com/mod/architectury-api)
-- *[ armored-elytra-1.9.0.jar ](https://modrinth.com/datapack/elytra-armor)
-- [ better-fabric-console-mc1.21.8-1.2.5.jar ](https://modrinth.com/mod/better-fabric-console)
-- [ c2me-fabric-mc1.21.8-0.3.4.0.0.jar ](https://modrinth.com/mod/c2me-fabric)
-- [ collective-1.21.8-8.10.jar ](https://modrinth.com/mod/collective)
-- [ enchantments-encore-3.2.1.jar ](https://modrinth.com/datapack/enchantments-encore)
-- [ fabric-api-0.134.0+1.21.8.jar ](https://modrinth.com/mod/fabric-api)
-- [ ferritecore-8.0.0-fabric.jar ](https://modrinth.com/mod/ferrite-core)
-- [ giantspawn-1.21.8-5.3.jar ](https://modrinth.com/mod/giant-spawn)
-- [ inventorytotem-1.21.8-3.4 (1).jar' ](https://modrinth.com/mod/inventory-totem)
-- [ krypton-0.2.9.jar ](https://modrinth.com/mod/krypton)
-- [ lithium-fabric-0.18.1+mc1.21.8.jar ](https://modrinth.com/mod/lithium)
-- [ noisium-fabric-2.7.0+mc1.21.6.jar ](https://modrinth.com/mod/noisium)
-- [ servux-fabric-1.21.8-0.7.3.jar ](https://modrinth.com/mod/servux)
-- [ threadtweak-fabric-0.1.7+mc1.21.5.jar ](https://modrinth.com/mod/threadtweak)
-- *[ trade-cycling-fabric-1.21.8-1.0.19.jar ](https://modrinth.com/mod/trade-cycling) 
-- *[voicechat-fabric-1.21.8-2.6.6.jar](https://modrinth.com/plugin/simple-voice-chat)
-- [ easyauth-mc1.21.6-3.3.6.jar ](https://modrinth.com/mod/easyauth)
+- [Anvil Restoration](https://modrinth.com/mod/anvil-restoration)
+- *[AppleSkin](https://modrinth.com/mod/appleskin) 
+    <details closed>
+        <summary>Xem thêm</summary>
+        <ul>
+            <li> - Khi **không cài**: không hiện thanh bão hoà, chơi game bình thường </li>
+            <li> - Khi **có cài**: thanh đói hiện thêm độ bão hoà, lượng máu và thức ăn hồi được khi cầm vật phẩm </li>
+        </ul>
+    </details
 
+- [Architectury API](https://modrinth.com/mod/architectury-api)
+- [Better Fabric Console](https://modrinth.com/mod/better-fabric-console)
+- [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)
+- *[Carpet](https://modrinth.com/mod/carpet)
+    <details closed>
+        <summary>Xem thêm</summary>
+        <ul>
+            <li> - Khi **không cài**:chơi game bình thường </li>
+            <li> - Khi **có cài**: sử dụng được các lệnh của carpet</li>
+        </ul>
+    </details
+- [Cloth Config API](https://modrinth.com/mod/cloth-config)
+- [Collective](https://modrinth.com/mod/collective)
+- [EasyAuth](https://modrinth.com/mod/easyauth)
+- *[Armored Elytra](https://modrinth.com/mod/elytra-armor)
+    <details closed>
+        <summary>Xem thêm</summary>
+        <ul>
+            <li> - Khi **không cài**: không hiện elytra trên model người chơi, chơi game bình thường, chế tạo và bay bằng giáp elytra bình thường </li>
+            <li> - Khi **có cài**: hiện được elytra trên model người chơi</li>
+        </ul>
+    </details
+- [Enchantments Encore](https://modrinth.com/mod/enchantments-encore)
+- [Fabric API](https://modrinth.com/mod/fabric-api)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
+- [Giant Spawn](https://modrinth.com/mod/giant-spawn)
+- [Inventory Totem](https://modrinth.com/mod/inventory-totem)
+- [Krypton](https://modrinth.com/mod/krypton)
+- [Lithium](https://modrinth.com/mod/lithium)
+- [Noisium](https://modrinth.com/mod/noisium)
+- *[Roughly Enough Items (REI)](https://modrinth.com/mod/rei)
+    <details closed>
+        <summary>Xem thêm</summary>
+        <ul>
+            <li> - Khi **không cài**: chơi game bình thường </li>
+            <li> - Khi **có cài**: thêm các tính năng của mod REI</li>
+        </ul>
+    </details
+- [ScalableLux](https://modrinth.com/mod/scalablelux)
+- [Servux](https://modrinth.com/mod/servux)
+- *[Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat)
+    <details closed>
+        <summary>Xem thêm</summary>
+        <ul>
+            <li> - Khi **không cài**: chơi game bình thường, nhưng không chat giọng nói được </li>
+            <li> - Khi **có cài**: có thể chat giọng nói </li>
+        </ul>
+    </details
+- [ThreadTweak](https://modrinth.com/mod/threadtweak)
+- *[Trade Cycling](https://modrinth.com/mod/trade-cycling)
+    <details closed>
+        <summary>Xem thêm</summary>
+        <ul>
+            <li> - Khi **không cài**: chơi game bình thường, trong menu trade không có nút để reset vật phẩm trao đổi của dân làng </li>
+            <li> - Khi **có cài**: menu trade hiện thêm nút reset cho phép đổi trade của dân làng mà không cần đập khối nghề</li>
+        </ul>
+    </details
 
 
 ### Các datapack 
-- [ 'DnT Ancient City Overhaul v3.1' ](https://modrinth.com/datapack/dungeons-and-taverns-ancient-city-overhaul)
-- [ 'DnT Desert Temple Overhaul v2.zip' ](https://modrinth.com/datapack/dungeons-and-taverns-desert-temple-overhaul)
-- [ 'DnT End Castle Standalone v1.3.4.zip' ](https://modrinth.com/datapack/dungeons-and-taverns-end-castle-standalone)
-- [ 'DnT Nether Fortress Overhaul v3.zip' ](https://modrinth.com/datapack/dungeons-and-taverns-nether-fortress-overhaul)
-- [ 'DnT Ocean Monument Overhaul v2.zip' ](https://modrinth.com/datapack/dungeons-and-taverns-ocean-monument-overhaul)
-- [ 'DnT Pillager Outpost Overhaul v3.2.1.zip' ](https://modrinth.com/datapack/dungeons-and-taverns-pillager-outpost-overhaul)
-- [ 'DnT Stronghold Overhaul v2.3.1' ](https://modrinth.com/datapack/dungeons-and-taverns-stronghold-overhaul)
-- [ 'DnT Swamp Hut Overhaul v2.2.zip' ](https://modrinth.com/datapack/dungeons-and-taverns-swamp-hut-overhaul)
-- [ 'DnT Woodland Mansion Replacement v1.6.1.zip' ](https://modrinth.com/datapack/dungeons-and-taverns-woodland-mansion-overhaul)
-- [  Incendium_1.21.5_v5.4.8_UNSUPPORTED ](https://modrinth.com/datapack/incendium)
-- [ 'Last Death Location - 2.0.4.zip' ](https://modrinth.com/datapack/last-death-location)
-- [  Nullscape_1.21_v1.2.13 ](https://modrinth.com/datapack/nullscape)
-- [  Structory_1.21_v1.3.11 ](https://modrinth.com/datapack/structory)
-- [  Structory_Towers_1.21_v1.0.13 ](https://modrinth.com/datapack/structory-towers)
-- [  Terralith_1.21.5_v2.5.11 ](https://modrinth.com/datapack/terralith)
-- [  Veinminer-Enchantment-1.2.3.zip ](https://modrinth.com/datapack/veinminer-enchantment)
-- [  banner-bedsheets-v1-8.zip ](https://modrinth.com/datapack/banner-bedsheets)
-- [  banner-flags-v2-9.zip ](https://modrinth.com/datapack/banner-flags)
-- [  biomesaplings-v1.1.6.zip ](https://modrinth.com/datapack/terralith-biome-saplings)
-- [  mine-treasure-1.6.zip ](https://modrinth.com/datapack/mine-treasure)
-- [  more_mobs-v1.5.7-mc1.14-1.21.9-datapack.zip ](https://modrinth.com/datapack/more-mobs)
-- [  terratonic-3.0.0-datapack ](https://modrinth.com/datapack/terratonic)
-- [  upgraded-mobs-1.5.0 ](https://modrinth.com/datapack/upgraded-mobs)
-- [  vanilla-refresh-1.4.28 ](https://modrinth.com/datapack/vanilla-refresh)
-- [  veinminer-1.3.2.zip ](https://modrinth.com/datapack/veinminer)
-- [ \'xp bottling v1.1.15 \(MC 1.21-1.21.9\).zip\' \(vanilla tweaks\) ](https://vanillatweaks.net/share#7v0zGS)
-- [ 'zDungeons and Taverns v4.7.3' ](https://modrinth.com/datapack/dungeons-and-taverns)
-
+- [Banner Bedsheets](https://modrinth.com/mod/banner-bedsheets)
+- [Banner Flags](https://modrinth.com/mod/banner-flags)
+- [Dungeons and Taverns Ancient City Overhaul](https://modrinth.com/mod/dungeons-and-taverns-ancient-city-overhaul)
+- [Dungeons and Taverns Desert Temple Overhaul](https://modrinth.com/mod/dungeons-and-taverns-desert-temple-overhaul)
+- [[Retired] Dungeons and Taverns End Castle Standalone](https://modrinth.com/mod/dungeons-and-taverns-end-castle-standalone)
+- [Dungeons and Taverns Nether Fortress Overhaul](https://modrinth.com/mod/dungeons-and-taverns-nether-fortress-overhaul)
+- [Dungeons and Taverns Ocean Monument Overhaul](https://modrinth.com/mod/dungeons-and-taverns-ocean-monument-overhaul)
+- [Dungeons and Taverns Pillager Outpost Overhaul](https://modrinth.com/mod/dungeons-and-taverns-pillager-outpost-overhaul)
+- [Dungeons and Taverns](https://modrinth.com/mod/dungeons-and-taverns)
+- [Dungeons and Taverns Stronghold Overhaul](https://modrinth.com/mod/dungeons-and-taverns-stronghold-overhaul)
+- [Dungeons and Taverns Swamp Hut Overhaul](https://modrinth.com/mod/dungeons-and-taverns-swamp-hut-overhaul)
+- [Dungeons and Taverns Woodland Mansion Overhaul](https://modrinth.com/mod/dungeons-and-taverns-woodland-mansion-overhaul)
+- [Incendium](https://modrinth.com/mod/incendium)
+- [Last Death Location](https://modrinth.com/mod/last-death-location)
+- [Mine Treasure](https://modrinth.com/mod/mine-treasure)
+- [More Mobs](https://modrinth.com/mod/more-mobs)
+- [Nullscape](https://modrinth.com/mod/nullscape)
+- [Structory](https://modrinth.com/mod/structory)
+- [Structory: Towers](https://modrinth.com/mod/structory-towers)
+- [Custom Biome Saplings](https://modrinth.com/mod/terralith-biome-saplings)
+- [Terralith](https://modrinth.com/mod/terralith)
+- [Terratonic](https://modrinth.com/mod/terratonic)
+- [Vanilla Refresh](https://modrinth.com/mod/vanilla-refresh)
+- [Veinminer Enchantment](https://modrinth.com/mod/veinminer-enchantment)
+- [Veinminer](https://modrinth.com/mod/veinminer)
+##### Datapack đã được chỉnh sửa
+- [ Upgraded Mobs ]( modrinth.com/datapack/upgraded-mobs )
+##### Lưu ý: dưới đây là các datapack vanila tweaks, nhấn vào [đây](https://vanillatweaks.net/download/VanillaTweaks_d160709_UNZIP_ME.zip) để tải các mod này xuống
+- redstone rotation wrench v1.1.16 (MC 1.21-1.21.11).zip
+- spawning spheres v1.1.15 (MC 1.21-1.21.11).zip
+- wandering trader announcements v1.0.8 (MC 1.21-1.21.11).zip
+- xp bottling v1.1.16 (MC 1.21-1.21.11).zip
