@@ -13,6 +13,8 @@
 <a href="https://zerotier.com"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/ZeroTier_Logo.png" align="right" width="144" /></a>
 > Server này sử dụng zerotier làm VPN để các máy khách có thể truy cập được từ xa, cần cài và yêu cầu tham gia mạng nội bộ của Zerotier
 
+### **\*Nếu bạn đã có vpn rồi, có thể bỏ qua bước này và kết nối thẳng đến địa chỉ server đã được để ở đầu trang**
+
 - **Bước 1:** Tải Zerotier [tại đây](https://www.zerotier.com/download/)
 - **Bước 2:** Tìm biểu tượng Zerotier trên taskbar, nhấn chọn **Join New Network**
 
