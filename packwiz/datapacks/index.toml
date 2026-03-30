@@ -95,12 +95,12 @@ hash = "2e99c81390ff3604b98a213e6c5d4eff59c5d70fad14bc92c0cbe3e4dd6be0a2"
 
 [[files]]
 file = "datapacks/structory-towers.pw.toml"
-hash = "2492bfbf5ff34af5693a9fd0309ed03492a1e7f43448fa4ec137e7bdf0a2b023"
+hash = "24cc4f2d58f450461910446dfcb627aa3ea690198691a333b5e29090e821c261"
 metafile = true
 
 [[files]]
 file = "datapacks/structory.pw.toml"
-hash = "556f9b886a6ac9bf2daddd914d900ea0f899a0bcd4cb2b781ef4b68076191808"
+hash = "99be57eaf49dca77e105677f216f5828412ed7356aad2e60b09a54fa47d5659c"
 metafile = true
 
 [[files]]
@@ -129,12 +129,12 @@ metafile = true
 
 [[files]]
 file = "datapacks/veinminer-enchantment.pw.toml"
-hash = "44bdb6eb00866a00ca5d2c9d80b51018332d48b51920838bd0470963cbbedf90"
+hash = "7d2955d367bc30266b6ba36549d1078bdc10252cd701c7085836b31516c0e6cc"
 metafile = true
 
 [[files]]
 file = "datapacks/veinminer.pw.toml"
-hash = "51635bb7b426c72c7231fd572b26c708130312ff99eeecfb47e4e8f92fb21ad7"
+hash = "7859f3fb22454770318279641c8c21ccc9a975cfab038f4a5d7c7f639694253f"
 metafile = true
 
 [[files]]
